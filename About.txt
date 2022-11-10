@@ -1,0 +1,8 @@
+includes:
+**npm i json-server
+
+
+
+Debug:
+** npm run server (port: http://localhost:3000)
+** npm start (port: http://localhost:3001) // you need acept

@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa social 'My King'",
+      "about": "The men’s shirt pattern free is for a classic shirt. It has a collar and full-length button opening at the front. Button down shirts are timeless and versatile.",
+      "price": 59.90,
+      "categori": "clothing",
+      "pictures": [
+       { "id":1, "img":"https://i.pinimg.com/564x/f8/34/67/f83467304c8e0677a609b347b0040297.jpg"}
+      ],
+      "estoque": 100
+    },
+    {
+      "id": 2,
+      "name": "Saia Colegial JP",
+      "about": "Preto Casual Collar, Tecido Simples, Plissado, Embellished Não elástico, Verão Calças e Saias",
+      "price": 120.00,
+      "categori": "clothing",
+      "pictures": [
+       { "id":1, "img":"https://i.pinimg.com/236x/ee/40/29/ee4029ef9276690c30636c12840621c8.jpg"},
+       { "id":2, "img":"https://i.pinimg.com/564x/d0/a4/64/d0a464f3989f7467f43822a4af0a0441.jpg"}
+      ],
+      "estoque": 100
+    },
+    {
+      "id": 3,
+      "name": "Conjunto shirts & tops Prada'",
+      "about": "The men’s shirt pattern free is for a classic shirt. It has a collar and full-length button opening at the front. Button down shirts are timeless and versatile.",
+      "price": 285.75,
+      "categori": "clothing",
+      "pictures": [
+       { "id":1, "img":"https://i.pinimg.com/564x/38/95/3f/38953f0a22a8d19c6eeaa5e435c282a6.jpg"}
+      ],
+      "estoque": 100
+    },
+    {
+      "id": 4,
+      "name": "Calsa Zíper Jeans",
+      "about": "Calça jeans reta com bolso costas e detalhe de bordado. Composição:71% ALGODÃO - 26% POLIESTER - 03% ELASTANO",
+      "price": 143.00,
+      "categori": "clothing",
+      "pictures": [
+       { "id":1, "img":"https://i.pinimg.com/564x/0c/19/d7/0c19d7b074793cf6385c8ec13f123e08.jpg"}
+      ],
+      "estoque": 100
+    },
+    {
+      "id": 5,
+      "name": "Blusa Gradient Ellit",
+      "about": "Blusa Ellit é elaborada em meia malha de algodão que proporciona toque macio, confortável e com ótimo caimento ao vestir. Possui modelagem regular, decote redondo e mangas curtas. O detalhe fica por conta da estampa que traz autenticidade à peça. É a peça que você precisava ter no seu guarda-roupas, aposte nas combinações com jeans Composição: 100%algodão (exceto cor Mescla Claro - 85%algodão no mínimo)",
+      "price": 350.00,
+      "categori": "clothing",
+      "pictures": [
+       { "id":1, "img":"https://i.pinimg.com/564x/57/75/92/5775924cff90678559821f40451d013b.jpg"}
+      ],
+      "estoque": 100
+    },
+    {
+      "id": 6,
+      "name": "Kit 10 CAMISETA SLIM FIT ",
+      "about": "ATENÇÃO: TENHA CERTEZA DE ADQUIRIR UM PRODUTO SOFISTICADO E COM TECIDO EXCELENTE E TOP.ESSAS CAMISETAS TEM MODELAGEM AJUSTADA AO CORPO, OU SEJA, FICAM JUSTAS E COLADAS. NÃO FICAM APERTADAS, MAS DEVIDO A TER MUITO ELASTANO ELAS MOLDAM O CORPO E VOCÊ TERÁ MUITA LIBERDADE NOS MOVIMENTOS.Um produto totalmente diferenciado e superior!Feito com Viscose, Algodão e Elastano, Essa camiseta irá lhe proporcionar muito estilo, pois devido a sua modelagem Slim moderna, irá desenhar muito bem sua parte abdominal! Com 8% de elastano em sua composição, tenha certeza de além de ter uma produto slim, mais justo ao corpo, você terá uma camiseta que deixará seus movimentos completamente livresComposição do tecido: 92%viscose 8%elastano!Tecido Menegotti - A melhor Viscolycra do Brasil.",
+      "price": 450.00,
+      "categori": "clothing",
+      "pictures": [
+       { "id":1, "img":"https://i.pinimg.com/564x/37/18/ff/3718ff668df3361acf4ee4ecbdcf4651.jpg"},
+       { "id":2, "img":"https://i.pinimg.com/564x/1d/1d/8f/1d1d8ff86772d6cf3268faf110f8d628.jpg"},
+       { "id":3, "img":"https://i.pinimg.com/564x/28/a4/77/28a477567ed3d08c03ae176d59c37657.jpg"}
+      ],
+      "estoque": 100
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "joao",
+      "password": "123456",
+      "class":"client"
+    }
+  ],
+
+  "cart": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "img":"https://i.pinimg.com/564x/f8/34/67/f83467304c8e0677a609b347b0040297.jpg",
+      "price": 59.9,
+      "categori": "clothing",
+      "amount": 1
+    }
+  ],
+  "likes": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "categori": "clothing",
+      "img":"https://i.pinimg.com/564x/f8/34/67/f83467304c8e0677a609b347b0040297.jpg"
+    }
+  ],
+
+  "Sales": [
+    {
+      "id": 1,
+      "img":"BlackFriday.png"
+    },
+    {
+      "id": 2,
+      "img":"childrem.png"
+    },
+    {
+      "id": 3,
+      "img":"Desconto.png"
+    },
+    {
+      "id": 4,
+      "img":"frete.png"
+    }
+  ]
+}

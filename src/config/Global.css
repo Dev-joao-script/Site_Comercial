@@ -1,0 +1,8 @@
+:root {
+    --Principal: red; /* cor predominante */
+    --Segunda: white; /* cor de Fundo (contraste)*/
+    --Terceira: blue; /* cor de botões ativos */
+    --Quarta: black; /* textos iniativos */
+    --Quinta: green;
+    --Sexta: grey; /* bordas inativas */
+}

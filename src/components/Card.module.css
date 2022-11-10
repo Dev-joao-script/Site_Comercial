@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+.card {
+    width: 300px;
+    height: auto;
+    background-color: var(--Segunda);
+    padding: 3px;
+    margin: 5px;
+    box-shadow: inset;
+    color: var(--Quarta);
+}
+
+.card_content_img{
+text-align: center;
+align-items: center;
+background-color: var(--Segunda);
+}
+
+.card_title{
+text-align: center;
+color: var(--Terceira);
+}
+
+.card_img {
+    height: 260px;
+    width: auto;
+    max-width: 290px;
+    border: solid 0.5px var(--Quarta); 
+    border-radius: 5px;
+    background-color: var(--Segunda);
+}
+
+.card_about {
+    margin: 1px;
+    padding: 1px;
+    width: 280px;
+    height: auto;
+    overflow:hidden;
+    text-overflow: ellipsis;
+    flex-flow: row nowrap;   
+    background-color: var(--Segunda);
+}
+
+.card_h5{
+    position: absolute;
+    align-items: center;
+    margin: 1px;
+    padding: 1px;
+    background-color: var(--Segunda);
+}

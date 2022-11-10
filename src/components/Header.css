@@ -1,0 +1,46 @@
+@import  '../config/Global.css';
+
+.header-sales{
+    position: relative;
+    height: 500px;
+    margin-bottom: 15px;
+    flex-flow: wrap;
+    max-width: auto;
+    background-color: var(--Principal);
+    background-image: url("../assets/header .gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    box-shadow: 5px 5px 5px 5px var(--Principal);
+  }
+
+  .header{
+    position: relative;
+    padding: 0;
+    height: 300px;
+    margin-bottom: 15px;
+    flex-flow: wrap;
+    max-width: auto;
+    background-color: var(--Principal);
+    background-image: url("../assets/header .gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    box-shadow: 5px 5px 5px 5px var(--Principal);
+  }
+
+  h1{
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+  }
+
+  .promotional{
+    position: absolute;
+    right: 5px;
+    left: auto;
+    top: 300px;
+    bottom: auto;
+    padding: 5px;
+    margin: 10px;
+    width: auto;
+    background: transparent;
+  }

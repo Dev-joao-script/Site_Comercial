@@ -1,0 +1,18 @@
+
+    {
+        "Url":{
+            "Produtos" :"http://localhost:3000/products",
+            "Promoções":"http://localhost:3000/Sales",
+            "Favoritos":"http://localhost:3000/likes",
+            "Carrinho":"http://localhost:3000/cart",
+            "Login":"http://localhost:3000/users"
+        },
+        "Tema":{
+            "Principal":"red",
+            "Segunda":"white",
+            "Terceira":"blue",
+            "Quarta":"black",
+            "Quinta":"green",
+            "Sexta":"grey"
+            }
+    }
